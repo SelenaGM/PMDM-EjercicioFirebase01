@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031909268208",
+    "project_id": "pmdm-ejerciciofirebase",
+    "storage_bucket": "pmdm-ejerciciofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031909268208:android:095f43dab2d084b4040035",
+        "android_client_info": {
+          "package_name": "com.example.pmdm_ejerciciofirebase01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031909268208-p1jne7fc5tn3762jrbq0vdmt146s34kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAToT4Rhk9oUpFhc85INcyE2NDZCCiarnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031909268208-p1jne7fc5tn3762jrbq0vdmt146s34kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
